@@ -1,0 +1,15 @@
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/controller/ClienteController.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/service/ClienteServiceImpl.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/service/dto/EstadoDto.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/service/CidadeServiceImpl.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/BackendApplication.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/repository/CidadeRepository.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/service/form/ClienteForm.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/service/dto/CidadeDto.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/model/Cidade.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/service/ClienteService.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/repository/ClienteRepository.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/model/Cliente.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/controller/CidadeController.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/service/dto/ClienteDto.java
+/home/raquel/Projetos/DesafioCompasso/backend/src/main/java/compasso/challenge/backend/service/CidadeService.java

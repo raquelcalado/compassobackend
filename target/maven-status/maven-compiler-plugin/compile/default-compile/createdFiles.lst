@@ -1,0 +1,15 @@
+compasso/challenge/backend/model/Cidade.class
+compasso/challenge/backend/service/dto/EstadoDto.class
+compasso/challenge/backend/service/ClienteServiceImpl.class
+compasso/challenge/backend/controller/CidadeController.class
+compasso/challenge/backend/repository/CidadeRepository.class
+compasso/challenge/backend/service/CidadeService.class
+compasso/challenge/backend/service/ClienteService.class
+compasso/challenge/backend/service/dto/ClienteDto.class
+compasso/challenge/backend/service/CidadeServiceImpl.class
+compasso/challenge/backend/BackendApplication.class
+compasso/challenge/backend/repository/ClienteRepository.class
+compasso/challenge/backend/service/dto/CidadeDto.class
+compasso/challenge/backend/service/form/ClienteForm.class
+compasso/challenge/backend/controller/ClienteController.class
+compasso/challenge/backend/model/Cliente.class

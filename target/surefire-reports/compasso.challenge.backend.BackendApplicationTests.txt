@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: compasso.challenge.backend.BackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.189 s - in compasso.challenge.backend.BackendApplicationTests
