@@ -40,20 +40,20 @@ Para tornar este projeto possível, as seguintes tecnologias foram utilizadas:
 <h4>Cadastrar Cidade</h4>
 POST - /cidades
 
-  {
-    "nome": "Recife",
-    "estado": "PE"
+  {<br>
+    "nome": "Recife",<br>
+    "estado": "PE"<br>
   }
 <br>
 
 <h4>Cadastrar Cliente</h4>
 POST - /clientes
-{
-    "nome": "RAQUEL",
-    "idade": 25,
-    "dataNascimento": "1994-06-11",
-    "sexo": "F",
-    "nomeCidade": "RECIFE"
+{<br>
+    "nome": "RAQUEL",<br>
+    "idade": 25,<br>
+    "dataNascimento": "1994-06-11",<br>
+    "sexo": "F",<br>
+    "nomeCidade": "RECIFE"<br>
 }
 <br>
 
@@ -79,7 +79,7 @@ DELETE - /clientes/1
 
 <h4>Alterar o nome do Cliente</h4>
 PUT - /clientes/1
-  {
-  	"nome": "Raquel"
+  {<br>
+  	"nome": "Raquel"<br>
   }
 
