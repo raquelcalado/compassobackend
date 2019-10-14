@@ -48,6 +48,7 @@ POST - /cidades
 
 <h4>Cadastrar Cliente</h4>
 POST - /clientes
+
 {<br>
     "nome": "RAQUEL",<br>
     "idade": 25,<br>
@@ -79,6 +80,7 @@ DELETE - /clientes/1
 
 <h4>Alterar o nome do Cliente</h4>
 PUT - /clientes/1
+
   {<br>
   	"nome": "Raquel"<br>
   }
