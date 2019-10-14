@@ -38,14 +38,12 @@ Para tornar este projeto possível, as seguintes tecnologias foram utilizadas:
 <p>Nos exemplos abaixo, são usados valores aleatórios, na hora do teste qualquer valor dentro do contexto é válido</p>
 
 <h4>Cadastrar Cidade</h4>
-
 POST - /cidades
 
   {
     "nome": "Recife",
     "estado": "PE"
   }
-  
 <br>
 
 <h4>Cadastrar Cliente</h4>
