@@ -1,6 +1,6 @@
-# compassobackend
+# javabackend
 
-<h1>Projeto Desafio Back-End Compasso</h1>
+<h1>CRUD Simples com Spring Boot e Hibernate</h1>
 
 <h1>REQUISITOS</h1>
 A aplicação contempla as seguintes operações expostas como endpoints REST:
